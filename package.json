@@ -1,0 +1,19 @@
+{
+  "name": "vue-ahoy",
+  "version": "1.0.0",
+  "description": "Vue.js plugin for ahoy",
+  "author": "roofeel <roofeel@live.com>",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roofeel/vue-ahoy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/roofeel/vue-ahoy/issues"
+  },
+  "homepage": "https://github.com/roofeel/vue-ahoy#readme",
+  "license": {
+    "type": "MIT",
+    "url": "http://www.opensource.org/licenses/mit-license.php"
+  }
+}
